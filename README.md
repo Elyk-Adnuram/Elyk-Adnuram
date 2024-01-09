@@ -2,15 +2,6 @@
 
 <br/>
 
-
-<a href="https://www.linkedin.com/in/kyle-marunda-58409439/">
-<img align="left" alt="Kyle Marunda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
- <a href="https://www.youtube.com/">
-<img align="left" alt="Dev Exploration Hub |  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<br />
-
 <br />
 
 Hi,I'm Kyle, a Web Developer, Problem-solver and Life-long learner.
@@ -39,4 +30,3 @@ Hi,I'm Kyle, a Web Developer, Problem-solver and Life-long learner.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-![Kyle's github stats](https://github-readme-stats.vercel.app/api?username=Elyk-Adnuram&show_icons=true&hide_border=true)
