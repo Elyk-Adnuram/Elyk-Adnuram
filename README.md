@@ -12,14 +12,11 @@ Hi, I'm Kyle, a Web Developer, Problem-solver and Life-long learner.
 
 **About me:**
 
-- 🔭 I’m currently a Code Reviewer / Code Mentor.
-- 🌱 I enjoy learning new skills whenever possible.
-- 📫 How to reach me:
-- 📝[My Website](https://www.kylemarunda.com/) 
-<a href="https://www.linkedin.com/in/kyle-marunda-58409439/">
-<img align="left" alt="Kyle Marunda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
+- I’m currently a Code Reviewer / Code Mentor.
+- I enjoy learning new skills whenever possible.
+- I'm currently learning TypeScript
+- How to reach me:
+- [My Website](https://www.kylemarunda.com/) 
 
 <br/>
 <br/>
@@ -31,4 +28,5 @@ Hi, I'm Kyle, a Web Developer, Problem-solver and Life-long learner.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
