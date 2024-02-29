@@ -15,7 +15,7 @@ Hi, I'm Kyle, a Web Developer, Problem-solver and Life-long learner.
 - I’m currently a Code Reviewer / Code Mentor.
 - I enjoy learning new skills whenever possible.
 - I'm currently learning TypeScript
-- How to reach me:[My Website](https://www.kylemarunda.com/) 
+- How to reach me: [My Website](https://www.kylemarunda.com/) 
 
 <br/>
 <br/>
