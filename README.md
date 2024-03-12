@@ -7,7 +7,7 @@
 Hi, I'm Kyle, a Web Developer, Problem-solver and Life-long learner.
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
 
 
 **About me:**
