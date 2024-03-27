@@ -21,7 +21,7 @@ Hi, I'm Kyle, a Web Developer, Problem-solver and Life-long learner.
 
 ## :fire: Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cancellier27&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elyk-Adnuram&hide=TeX&layout=compact)
 
 
 **Languages and Tools:**
