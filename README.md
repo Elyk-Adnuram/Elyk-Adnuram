@@ -1,7 +1,7 @@
 # Hello World 👋 Welcome to my GitHub Profile
 <br/>
 
-## Hi, I'm Kyle, a Web Developer, Problem-solver and Life-long learner.
+## I'm Kyle, a Web Developer, Team player and Life-long learner.
 
 <br/>
 
@@ -12,7 +12,7 @@
 - I enjoy learning new skills whenever possible.
 - Learning Typescript and doing CS50x
 - How to reach me: [My Website](https://www.kylemarunda.com/)
-- 
+  
 <br/>
 
 ## Languages
