@@ -1,4 +1,4 @@
-# Hello World 👋 Welcome to my GitHub Profile
+# Hello World and Welcome to my GitHub Profile
 <br/>
 
 ## I'm Kyle, a Web Developer, Team player and Life-long learner.
