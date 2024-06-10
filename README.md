@@ -10,7 +10,7 @@
 
 - I’m currently a Code Reviewer / Code Mentor.
 - I enjoy learning new skills whenever possible.
-- Learning Typescript and doing CS50x
+- Currently doing CS50x Introduction to Computer Science
 - How to reach me: [My Website](https://www.kylemarunda.com/)
   
 <br/>
