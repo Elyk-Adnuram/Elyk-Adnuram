@@ -10,14 +10,14 @@
 
 - I’m currently a Code Reviewer / Code Mentor.
 - I enjoy learning new skills whenever possible.
-- Currently doing CS50x Introduction to Computer Science
 - How to reach me: [My Website](https://www.kylemarunda.com/)
   
 <br/>
 
 ## Languages
 <br/>
-
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elyk-Adnuram&hide=TeX&layout=compact)
 
 <br/>
