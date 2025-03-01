@@ -20,7 +20,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elyk-Adnuram&hide=TeX&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elyk-Adnuram&hide=TeX&layout=compact)
 
 <br/>
 
