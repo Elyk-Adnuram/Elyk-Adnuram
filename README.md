@@ -10,7 +10,7 @@
 
 - I’m currently a Code Reviewer / Code Mentor.
 - I enjoy learning new skills whenever possible.
-- How to reach me: [My Website](https://www.kylemarunda.com/)
+- How to reach me: Feel free to connect via LinkedIn
   
 <br/>
 
